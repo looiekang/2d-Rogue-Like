@@ -83,8 +83,11 @@
 -define:UNITY_EDITOR_WIN
 -define:UNITY_TEAM_LICENSE
 Assets/Scripts/BoardManager.cs
+Assets/Scripts/Enemy.cs
 Assets/Scripts/GameManager.cs
-Assets/Scripts/Loader.cs
+Assets/Scripts/MovingObject.cs
+Assets/Scripts/Player.cs
+Assets/Scripts/Wall.cs
 Assets/TutorialInfo/Scripts/TutorialInfo.cs
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
